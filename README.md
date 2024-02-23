@@ -1,5 +1,6 @@
-### Hi there 👋, 
-my name is Shen Haoyi, I am a frontend engineer.
+<p align="center"><img width="80%" alt="Hello, I'm Shen Haoyi." src="./assets/readme-header.png" /></p>
+
+I am a frontend engineer.
 
 - Skills: Vue.js / React.js / Nest.js
 - Learning: Next.js
