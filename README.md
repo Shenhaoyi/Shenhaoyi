@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shenhaoyi/Shenhaoyi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shenhaoyi/Shenhaoyi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shenhaoyi/Shenhaoyi/output/github-contribution-grid-snake.svg">
-</picture>
+## Contact me by:
+- Email: [shenhaoyi04@163.com](mailto:shenhaoyi04@163.com)
+- Wechat: shenhaoyi04
